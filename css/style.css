@@ -1,3 +1,99 @@
-h2 {
-	color: red;
+/* start header styling */
+
+header {
+	margin-top: 30px;
+	margin-left: 30px;
+	margin-bottom: 80px;
 }
+
+.logo {
+	display: inline-block;
+	margin-right: 50px;
+	vertical-align: middle;
+}
+
+nav {
+	display: inline-block;
+	vertical-align: middle;
+
+}
+
+li {
+	display: inline-block;
+	margin-right: 14px;
+	vertical-align: middle;
+
+}
+
+a {
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	font-size: 22px;
+	font-weight: 700;
+	color: #3d58a6;
+}
+
+.active {
+	color: #ee4036;
+}
+
+/* start section 1 */
+.s-1 {
+	margin-bottom: 124px;
+}
+.container {
+	width: 1170px;
+	margin: 0 auto;
+}
+
+/* start section 2 */
+.s-2 {
+	margin-bottom: 80px;
+}
+
+
+h2 {
+	margin-bottom: 32px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+	
+}
+
+.card {
+	width: 570px;
+	height: 225px;
+	background-color: lightgray;
+	padding: 18px 20px;
+	display: inline-block;
+}
+
+h4 {
+	margin-bottom: 18px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 22px;
+	color: #3d58a6;
+
+}
+
+img {
+	display: inline-block;
+	margin-right: 60px;
+	vertical-align: middle;
+
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	color: #333333;
+	display: inline-block;
+	width: 356px;
+	vertical-align: middle;
+	line-height: 24px;
+}
+
+
+.card-left {
+	margin-right: 26px;
+}
+
+
